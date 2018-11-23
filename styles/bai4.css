@@ -1,0 +1,160 @@
+body{
+	font-family:  Arial, san-serif;
+}
+
+.all{
+	max-width:315px;
+	width:315px;
+	margin-top: 16px; 
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:17px;
+	background-color:#E6F3FB;
+}
+
+.box{
+	margin-left:11px;
+	margin-right:9px;
+}
+
+.title{
+	font-family:  "Times New Roman";
+	font-size:16px;
+	line-height:1.06;
+	margin-bottom:0px;
+}
+
+.picture1{
+	float:left;
+	margin-top:7px;
+}
+
+
+
+.content-1{
+	border-top:4px solid #f7a418;
+	background-color:#ffffff
+}
+
+.content-1 .blocktext{
+	float:left;
+	margin-left:10px;
+	padding-top:0px;
+}
+
+.content-1:after{
+	content: "";
+    display: table;
+    clear: both;
+	height: 0;
+    visibility: hidden;		
+}
+
+.text-1{
+	font-size:12px;
+	line-height:1.25;
+	margin-top:0px;
+}
+
+.title-1{
+	font-size:12px;
+	margin-bottom:0px;
+	color:#0A6395;
+	line-height: 1.25;
+	margin-top:7px;
+	font-weight:bold;
+}
+
+.content-2{
+	padding-top:9px;
+	padding-bottom:12px;
+	padding-left:10px;
+	margin-top:1px;
+	margin-bottom:0px;
+	font-size:12px;
+	line-height:1.25;
+	color:#0A6395;
+	background-color:#f9f1c2;
+}
+
+.title-2{
+	color:#0A6395;
+	font-size:15px;
+	line-height: 1;
+	margin-top:24px;	
+	color:#000000;
+	font-weight:bold;
+}
+
+.date{
+	font-size: 11px;
+	line-height: 1.36;
+	color: #595959;
+}
+
+.text-2{
+	font-size:11px;
+	line-height:1.27;
+}
+
+.picture2{
+	float:left;
+	margin-top:21px;
+}
+
+.content-3{
+	font-size:11px;
+	line-height:1.27;
+	padding-top:9px;
+	padding-bottom:12px;
+	padding-left:10px;
+	margin-top:1px;
+	margin-bottom:0px;
+	color:#000000;
+	background-color:#f9f1c2;
+	background-image:url(../images/img3.png);
+}
+
+.text-3{
+	font-size: 12px;
+	line-height: 1.25;
+	color: #000000;
+	margin-top:23px;
+	margin-left:23px;
+	font-family: "Times New Roman";
+}
+
+.picture3{
+	float:right;
+}
+
+.get-new-mobile{
+	text-decoration:none;
+	color:#0a6395;
+}
+
+.box-2{
+	margin-top:8px;
+	border-top:1px solid #000000;
+	margin-left:11px;
+	margin-right:9px;
+}
+
+.title-3{
+	margin-top:6px;
+	font-size:14px;
+	line-height: 1.07;
+	font-weight:bold;	
+	font-family: "Times New Roman";
+}
+
+.content-4{
+	padding-top:12px;
+	padding-left:8px;
+	padding-bottom:12px;
+	font-size: 12px;
+	line-height: 15px;
+	color: #4d5d73;
+	font-family: "Times New Roman";
+	background-color:#ffffff;
+}
